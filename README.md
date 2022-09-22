@@ -1,6 +1,6 @@
 # ECE Outreach Site
 
-<a href="https://kirktopode.github.io/ECE_Outreach_Website/">Preview Site</a>
+<a href="https://burak-ozmen.github.io/ece_outreach_website_22/">Preview Site</a>
 
 ## Adding Team Member Info
 In `src/data/data.json`, team members are declared. See the `"Team"` array for examples and adding new info. Images are stored in `public/img/team`. Everything should work automatically.
