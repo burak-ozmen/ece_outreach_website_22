@@ -84,7 +84,26 @@
             "name": "Johnathan Doe"
         }
     ],
-    "Team": [{
+    "Senior Design Team": [{
+            "img": "img/team/bethany_jones.png",
+            "name": "Bethany Jones",
+            "job": "Senior",
+            "description": "Filler"
+        }
+        {
+            "img": "img/team/david_neitenbach.png",
+            "name": "Burak Ozmen",
+            "job": "Senior",
+            "description": "I am a senior electrical engineering student. I am interested in VLSI, circuit design, and robotics."
+        }
+        {
+            "img": "img/team/brandon_crisp.png",
+            "name": "Brandon Crisp",
+            "job": "Filler",
+            "description": "Filler"
+        }
+    "Volunteer Team":
+        {
             "img": "img/team/david_neitenbach.png",
             "name": "David Neitenbach",
             "job": "Senior",
@@ -216,13 +235,6 @@
             "linkedin": "https://www.linkedin.com/in/ianbernstein/",
             "graduation": "B.S.E.E. 2007",
             "quote": "With sensors, microcontrollers, and computers surrounding us from our cars to our fitness equipment to sleep aids, ECE is becoming more and more important every day. Not to mention how fun, creative, and rewarding it can be!"
-        },
-        {
-            "img": "img/team/brandon_crisp.png",
-            "name": "Brandon Crisp",
-            "linkedin": "",
-            "graduation": "B.S.E.E. 2021",
-            "quote": ""
         },
         {
             "img": "img/team/ian_johnson.png",
